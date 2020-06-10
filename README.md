@@ -1,6 +1,6 @@
 # Hacker_News
 ## General Information 
-News app that displays the news form the "new.ycombinator.com" website. Built to get familiar with the new SwiftUI framwork.
+News app that displays the news form the "https://www.ycombinator.com/" website. Built to get familiar with the new SwiftUI framwork.
 Uses an HN Search API to retireve post titles and display them in a list view based, ordered by the number of hits the post has. 
 When users click on a title (click on the list item) they are directed to a web view with the post.
 
